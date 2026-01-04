@@ -1,0 +1,178 @@
+/* ==========================
+   1️⃣ General page styling
+   ========================== */
+
+/* Styles the entire webpage */
+body {
+    background-color: #c6dbcb;   /* Sets a soft green background color */
+    font-family: Arial, sans-serif; /* Uses Arial font (falls back to sans-serif if unavailable) */
+    margin: 0;                  /* Removes default browser spacing around the page */
+    padding: 20px;              /* Adds space inside the page edges */
+    display: flex;              /* Enables Flexbox layout */
+    flex-direction: column;     /* Stacks items vertically */
+    align-items: center;        /* Centers items horizontally */
+}
+
+/* ==========================
+   2️⃣ Welcome message
+   ========================== */
+
+/* Targets the element with id="welcome-message" */
+#welcome-message {
+    font-weight: bold;          /* Makes the text thicker */
+    font-size: 18px;            /* Sets the text size */
+    text-align: center;         /* Centers the text horizontally */
+    margin-bottom: 15px;        /* Adds space below the message */
+    color: #2a9d8f;             /* Sets the text color */
+}
+
+/* ==========================
+   2️⃣a Main page title
+   ========================== */
+
+/* Styles all <h1> headings */
+h1 {
+    font-family: "Garamond", serif; /* Uses Garamond font (classic look) */
+    color: #333;                   /* Dark gray text color */
+    text-align: center;            /* Centers the heading text */
+}
+
+/* ==========================
+   3️⃣ Flashcard sentence
+   ========================== */
+
+/* Targets the element with id="sentence" */
+#sentence {
+    font-size: 24px;            /* Makes the sentence large and readable */
+    margin: 20px 0;             /* Adds space above and below */
+    text-align: center;         /* Centers the sentence */
+}
+
+/* ==========================
+   4️⃣ Feedback text (Correct / Incorrect / Hint)
+   ========================== */
+
+/* Targets the feedback message area */
+#feedback {
+    font-size: 18px;            /* Slightly larger text for visibility */
+    margin-bottom: 15px;        /* Space below the feedback */
+    text-align: center;         /* Centers the feedback text */
+}
+
+/* Applied when an answer is correct */
+.correct {
+    color: green;               /* Green text signals success */
+}
+
+/* Applied when an answer is incorrect */
+.incorrect {
+    color: red;                 /* Red text signals an error */
+}
+
+/* Applied when showing a hint */
+.hint {
+    color: #555;                /* Neutral gray color */
+}
+
+/* ==========================
+   5️⃣ Input field for typing cards
+   ========================== */
+
+/* Styles the text input field */
+#text-input {
+    display: block;             /* Forces input onto its own line */
+    margin-bottom: 12px;        /* Adds space below the input */
+    width: 100%;                /* Makes input stretch full container width */
+    padding: 8px;               /* Adds space inside the input box */
+    font-size: 1em;             /* Uses normal readable text size */
+    border-radius: 5px;         /* Rounds the input corners */
+    border: 1px solid #ccc;     /* Adds a light gray border */
+}
+
+/* ==========================
+   6️⃣ Flashcard buttons
+   ========================== */
+
+/* Styles all buttons with class="choice-btn" */
+.choice-btn {
+    padding: 10px 20px;         /* Adds space inside the button */
+    margin: 5px;                /* Adds space between buttons */
+    font-size: 16px;            /* Sets readable button text size */
+    cursor: pointer;            /* Changes cursor to a hand on hover */
+    border-radius: 6px;         /* Slightly rounded button corners */
+    border: none;               /* Removes default browser border */
+}
+
+/* Hover effect for choice, submit, and continue buttons */
+.choice-btn:hover, 
+#submit-btn:hover, 
+#continue-btn:hover {
+    background-color: #d0e0d0;  /* Changes background color on hover */
+}
+
+/* ==========================
+   7️⃣ Submit button
+   ========================== */
+
+/* Styles the submit button */
+#submit-btn {
+    display: inline-block;      /* Allows spacing while staying inline */
+    padding: 8px 16px;          /* Adds comfortable inner spacing */
+    font-size: 1em;             /* Standard readable text size */
+    border-radius: 5px;         /* Rounded corners */
+    border: none;               /* Removes default border */
+    background-color: #4CAF50;  /* Green background color */
+    color: white;               /* White text for contrast */
+    cursor: pointer;            /* Hand cursor on hover */
+}
+
+/* Hover effect specifically for submit button */
+#submit-btn:hover {
+    background-color: #45a049;  /* Slightly darker green on hover */
+}
+
+/* ==========================
+   8️⃣ Progress indicators (hearts & counters)
+   ========================== */
+
+/* Styles the heart, correct, and incorrect counters */
+#heart-count,
+#correct-count,
+#incorrect-count {
+    font-size: 18px;            /* Makes counters easy to read */
+    margin-top: 10px;           /* Adds space above counters */
+}
+
+/* ==========================
+   9️⃣ Submit & Restart vertical spacing
+   ========================== */
+
+/* Applies shared styling to submit and restart buttons */
+#submit-btn,
+#restart-btn {
+    display: block;             /* Places buttons on separate lines */
+    margin: 10px auto;          /* Centers buttons horizontally */
+    padding: 10px 20px;         /* Adds comfortable click area */
+    font-size: 16px;            /* Sets readable text size */
+    cursor: pointer;            /* Shows hand cursor on hover */
+}
+
+/* ==========================
+   🔟 Restart button styling (Game Over emphasis)
+   ========================== */
+
+/* Styles the restart button */
+#restart-btn {
+    background-color: #ff4c4c;  /* Bright red to grab attention */
+    color: white;               /* White text for contrast */
+    border: none;               /* Removes default border */
+    border-radius: 8px;         /* Smooth rounded corners */
+    box-shadow: 0 4px 6px rgba(0,0,0,0.2); /* Adds a soft shadow */
+    transition: transform 0.1s, box-shadow 0.1s; /* Smooth hover animation */
+}
+
+/* Hover effect for restart button */
+#restart-btn:hover {
+    transform: translateY(-2px); /* Moves button slightly upward */
+    box-shadow: 0 6px 8px rgba(0,0,0,0.25); /* Darker shadow on hover */
+}

@@ -1,0 +1,185 @@
+German	Answer	Type	Category	Distractors	Level
+Wir werden morgen das Museum ___ .	besichtigen	type	sentence	besichtigen|anschauen|besuchen|prüfen	A2
+Wir müssen das Zimmer ___ .	aufräumen	type	sentence	aufräumen|sauber machen|schmutzig|werfen	A2
+Wir haben ___ die Aufgaben erledigt.	alle	type	sentence	alle|sämtliche|einige|manche	A1
+Wir gehen ___ am Samstag.	das Einkaufen	type	sentence	das Einkaufen|shoppen|kochen|essen	A1
+Mein Auto ist ___ dem deines Bruders.	ähnlich	type	sentence	ähnlich|gleich|anders|verschieden	A1
+Kannst du bitte die Tür ___ ?	aufmachen	type	sentence	aufmachen|öffnen|schließen|zukleben	A1
+Ich sitze in dem ___ und lese ein Buch.	Sessel	type	sentence	Sessel|Stuhl|Sofa|Tisch	A1
+Ich muss meine Hausaufgaben bis morgen ___ .	abgeben	type	sentence	abgeben|abliefern|behalten|nehmen	A1
+Ich muss mein Handy ___ .	aufladen	type	sentence	aufladen|aufpumpen|entladen|ausschalten	A2
+Ich muss jetzt ___ .	aufhören	type	sentence	aufhören|beenden|fortsetzen|starten	A2
+Ich muss früh ___ .	aufstehen	type	sentence	aufstehen|aufwachen|liegen bleiben|schlafen	A1
+Ich liebe ___ im Sommer.	das Eis	type	sentence	das Eis|das Sorbet|der Kuchen|der Apfel	A2
+Ich lese jeden Abend ein Buch, aber ___ sehe ich lieber fern.	abends	type	sentence	abends|am Abend|morgens|nachts	A2
+Ich habe gestern das Geschirr ___ .	abgewaschen	type	sentence	abgewaschen|gespült|dreckig|trocken	A2
+Ich habe das Geschirr schon ___ .	abgewaschen	type	sentence	abgewaschen|gereinigt|verschmutzt|nass	A2
+Die Kinder müssen ___ .	aufpassen	type	sentence	aufpassen|achten|ignorieren|übersehen	A1
+Die ___ von meinem Date sind hellgrün.	die Augen	type	sentence	die Augen|das Gesicht|die Nase|der Mund	A2
+Das ist nur eine ___ !	Ausrede	type	sentence	Ausrede|Entschuldigung|Wahrheit|Erklärung	A2
+Das ist meine ___ .	Schwester	type	sentence	Schwester|Bruder|Cousin|Tante	A1
+Das ist mein ___ .	Vater	type	sentence	Vater|Mutter|Onkel|Freund	A1
+Das ist ein ___ von meinem ersten Pferd.	Foto	type	sentence	Foto|Bild|Gemälde|Text	A1
+Das ist ein ___ !	Notfall	type	sentence	Notfall|Krise|Routine|Plan	A1
+Das ist die ___, die mein Pferd benutzt.	Zahnbürste	type	sentence	Zahnbürste|Pinsel|Kamm|Löffel	A1
+Das ist dein ___ .	Lieblingslied	type	sentence	Lieblingslied|Lieblingsfilm|Lied|Film	A2
+Das ist ___ sondern Bier.	kein Saft	type	sentence	kein Saft|Wasser|Limonade|Tee	A2
+Das ist ___ .	egal	type	sentence	egal|unwichtig|bedeutend|relevant	A1
+Das ___ ist leer.	das Bücherregal	type	sentence	das Bücherregal|der Schrank|der Tisch|das Sofa	A2
+Das ___ ist eng.	das Hemd	type	sentence	das Hemd|die Bluse|der Pullover|die Jacke	A2
+Das ___ auf dem Bild zeigt mich.	das bin ich	type	sentence	das bin ich|das bist du|das sind wir|das ist er	A2
+das ___	Date	type	sentence	Date|Treffen|Termin|Rendezvous	A1
+Alle sagen, dass das ___ schnell war.	WLAN	type	sentence	WLAN|Internet|Netzwerk|Verbindung	A2
+Alle kommen zur Party, sogar meine Geschwister. Wir ___ mit der ganzen Familie.	feiern	type	sentence	feiern|tanzen|singen|spielen	A2
+Alle bekommen ___ sogar die Katzen.	Geschenke	type	sentence	Geschenke|Präsente|Spielzeug|Karten	A2
+Alis Tochter will in einem Sportverein ___ .	trainieren	type	sentence	trainieren|üben|arbeiten|spielen	A2
+Alex war ___.	lieb	type	sentence	lieb|nett|freundlich|sympathisch	A1
+Aber auf dem Bild sind sie nicht ___.	schön	type	sentence	schön|hässlich|mittelmäßig|langweilig	A2
+Ab morgen lerne ich jeden Tag ___.	Deutsch	type	sentence	Deutsch|Englisch|Französisch|Spanisch	A2
+___, ich habe die Antwort vergessen.	Äh.	type	sentence	Äh.|Hm|Oh|Na	A1
+___ von der Nachbarin ist ein Ufo.	Das Auto	type	sentence	Das Auto|Der Wagen|Der Bus|Das Fahrrad	A2
+___ mag Schokolade.	Fast jede Person	type	sentence	Fast jede Person|Jede|Manche|Viele	A1
+___ lerne ich Deutsch.	Ab morgen	type	sentence	Ab morgen|Ab heute|Ab sofort|Ab nächste Woche	A1
+___ ist nicht schnell.	Das Internet	type	sentence	Das Internet|Die Verbindung|Das WLAN|Der Router	A2
+___ ist in der Nähe.	Das Hotel	type	sentence	Das Hotel|Der Gasthof|Die Pension|Das Motel	A1
+___ ist fast vierzehn Monate alt.	Das Baby	type	sentence	Das Baby|Der Säugling|Das Kind|Das Kleinkind	A1
+___ hier sind lecker, aber ich will heute diesen probieren.	Salat	type	sentence	Salat|Gemüse|Suppe|Obst	A2
+___ beginnt die Schule wieder.	Ab morgen	type	sentence	Ab morgen|Ab heute|Ab sofort|Ab nächste Woche	A1
+Zahnbürste	toothbrush	select	vocabulary	Pinsel|Bürste|Handtuch	A1
+WLAN	Wi-Fi	select	vocabulary	Internet|Netzwerk|Verbindung	A2
+Vater	father	select	vocabulary	Mutter|Vater|Eltern	A1
+trainieren	to train	select	vocabulary	üben|arbeiten|spielen	A2
+sich verstehen mit	to get along with	select	vocabulary	sich streiten mit|sich ignorieren|zusammenarbeiten	A2
+sich verkleiden	to dress up	select	vocabulary	sich ausziehen|sich verkörpern|kostümieren	A2
+sich freuen	to be happy	select	vocabulary	sich ärgern|lachen|glücklich sein	A1
+sich ärgern	to get annoyed	select	vocabulary	sich freuen|sich beschweren|ärgern	A1
+sich anziehen	to get dressed	select	vocabulary	sich ausziehen|sich umziehen|kleiden	A1
+setzen	to sit	select	vocabulary	stellen|legen|sitzen	A1
+Schwester	sister	select	vocabulary	Bruder|Schwester|Eltern	A1
+schade	too bad	select	vocabulary	traurig|schade|bedauerlich	A1
+Salat	salad	select	vocabulary	Gemüse|Suppe|Obst	A1
+Notfall	emergency	select	vocabulary	Krise|Alarm|Notfall	A1
+Mutter	mother	select	vocabulary	Vater|Mutter|Eltern	A1
+Lieblingslied	favorite song	select	vocabulary	musik|Lied|Titel	A1
+lieb	loving / kind	select	vocabulary	nett|freundlich|sympathisch	A2
+kein Saft	Not juice	select	vocabulary	Saft|Bier|Wasser	A1
+Geschenke	gifts	select	vocabulary	Präsente|Spielzeug|Karten	A2
+Foto	photo	select	vocabulary	Bild|Foto|Fotoapparat	A2
+feiern	to celebrate	select	vocabulary	tanzen|singen|spielen	A1
+Fast jede Person	Almost every person	select	vocabulary	Jeder|Manche|Viele	A2
+egal	whatever	select	vocabulary	unwichtig|egal|belanglos	A1
+die Zeitung	Newspaper	select	vocabulary	Magazine|Letter|Chair	A1
+die Wohnung	Apartment	select	vocabulary	House|Room|Window	A1
+die Tür	Door	select	vocabulary	Window|Chair|Cat	A1
+die Straße	Street	select	vocabulary	House|Chair|Table	A2
+die Sprache	Language	select	vocabulary	Word|Sentence|Book	A1
+die Sonne	Sun	select	vocabulary	Moon|Star|Rain	A1
+die Schule	School	select	vocabulary	House|Car|Dog	A1
+die Prüfung	Exam	select	vocabulary	Homework|Class|Test	A1
+die Milch	Milk	select	vocabulary	Water|Juice|Bread	A1
+die Kleidung	Clothes	select	vocabulary	Food|Shoes|Chair	A2
+die Katze	Cat	select	vocabulary	Dog|House|Bread	A1
+die Geschäfte	shops	select	vocabulary	die Läden|die Märkte|das Kaufhaus	A1
+die Freundin	Friend (f)	select	vocabulary	Mother|Sister|Cat	A1
+die Einladung	Invitation	select	vocabulary	Letter|Card|Message	A2
+die Blume	Flower	select	vocabulary	Tree|House|Apple	A2
+die Banane	Banana	select	vocabulary	Apple|Chair|Dog	A1
+die Augen	The eyes	select	vocabulary	das Gesicht|die Nase|die Augenbrauen	A1
+Die Arbeit	work	select	vocabulary	der Job|die Aufgabe|die Tätigkeit	A1
+die Alpen	the Alps	select	vocabulary	die Berge|der Berg|das Gebirge	A1
+die Abende	the evenings	select	vocabulary	die Tage|die Nächte|die Wochen	A1
+der Vogel	Bird	select	vocabulary	Fish|Dog|Cat	A1
+der Tisch	Table	select	vocabulary	Chair|Cat|Apple	A1
+der Supermarkt	Supermarket	select	vocabulary	Shop|Bank|Market	A1
+der Stuhl	Chair	select	vocabulary	Table|Book|Dog	A1
+der Sessel	armchair	select	vocabulary	der Stuhl|das Sofa|der Hocker	A2
+der Schüler	Student	select	vocabulary	Teacher|Chair|Cat	A1
+der Schuh	Shoe	select	vocabulary	Hat|Sock|Table	A1
+der Saft	Juice	select	vocabulary	Water|Bread|Chair	A1
+der Regen	Rain	select	vocabulary	Snow|Sun|Cloud	A1
+der Markt	Market	select	vocabulary	School|Car|Dog	A1
+der Lehrer	Teacher	select	vocabulary	Student|Dog|Cat	A1
+der Hund	Dog	select	vocabulary	Cat|Apple|Chair	A1
+der Garten	Garden	select	vocabulary	Park|Street|Car	A1
+der Freund	Friend	select	vocabulary	Teacher|Student|Dog	A1
+der Fisch	Fish	select	vocabulary	Dog|Cat|Apple	A1
+der Bahnhof	Train station	select	vocabulary	Flughafen|Bus|Schule	A1
+der Apfel	Apple	select	vocabulary	Buch|Katze|Milch	A2
+der Akku	Battery	select	vocabulary	die Batterie|das Ladegerät|der Energiespeicher	A1
+der Abend	Evening	select	vocabulary	Morgen|Nacht|Tag	A1
+das Wetter	Weather	select	vocabulary	Jahreszeit|Zeit|Ort	A1
+das Wasser	Water	select	vocabulary	Milch|Saft|Tee	A1
+das Krankenhaus	Hospital	select	vocabulary	Schule|Markt|Bank	A1
+das Kleid	The dress	select	vocabulary	Die Bluse|Die Jacke|Das Hemd	A1
+das Kissen	The pillow	select	vocabulary	Die Decke|Das Bett|Die Matratze	A1
+Das Kino	The cinema	select	vocabulary	Das Theater|Das Museum|Das Restaurant	A1
+das Kaufhaus	The department store	select	vocabulary	Der Supermarkt|Der Laden|Das Geschäft	A1
+Das Kaninchen	The rabbit	select	vocabulary	Das Huhn|Das Schaf|Das Pferd	A1
+Das italienische Restaurant	The Italian restaurant	select	vocabulary	Das griechische Restaurant|Das chinesische Restaurant|Das französische Restaurant	A1
+Das ist sehr unhöflich.	That is very rude	select	vocabulary	Das ist freundlich|Das ist nett|Das ist höflich	A1
+das Insekt	insect	select	vocabulary	die Spinne|das Tier|die Fliege	A1
+Das indische Restaurant	das indische Restaurant	select	vocabulary	das italienische Restaurant|das chinesische Restaurant|das griechische Restaurant	A2
+das Huhn	chicken	select	vocabulary	die Ente|die Gans|das Küken	A1
+das Holz	wood	select	vocabulary	der Baum|das Brett|der Stock	A2
+das Hemd	shirt	select	vocabulary	die Bluse|der Pullover|die Jacke	A2
+das Haus	House	select	vocabulary	Car|Dog|Water	A1
+das Hauptfach	main compartment	select	vocabulary	das Nebenfach|die Tasche|das Fach	A2
+das Handtuch	bath towel	select	vocabulary	das Badetuch|das Laken|die Decke	A2
+das Gewitter	thunderstorm	select	vocabulary	Der Sturm|der Regen|das Unwetter	A2
+das Getränk	drink	select	vocabulary	Die Limonade|das Wasser|der Saft	A1
+das Gespenst	ghost	select	vocabulary	Der Geist|die Spukgestalt|das Phantom	A1
+das Geschirr (singular)	das Gewitter	select	vocabulary	Der Sturm|der Regen|das Unwetter	A2
+das Geschirr (plural)	das Getränk	select	vocabulary	Die Limonade|das Wasser|der Saft	A1
+das Geschenk	das Gespenst	select	vocabulary	Der Geist|die Spukgestalt|das Phantom	A1
+das Geschäft	das Geschirr (singular)	select	vocabulary	Der Teller|die Schale|die Tasse	A2
+das Geräusch	das Geschirr (plural)	select	vocabulary	Die Teller|die Tassen|die Gläser	A2
+das Gepäck	das Geschäft	select	vocabulary	der Laden|das Kaufhaus|der Markt	A1
+das Gedicht	das Geräusch	select	vocabulary	der Ton|die Stimme|das Geräusch	A2
+das Gebäude	das Gepäck	select	vocabulary	die Tasche|der Koffer|das Paket	A2
+das Frühstück	das Gebäude	select	vocabulary	das Haus|der Turm|die Schule	A2
+das Freizeitzentrum	das Frühstück	select	vocabulary	das Mittagessen|das Abendessen|der Snack	A2
+das Flugzeug	das Freizeitzentrum	select	vocabulary	das Fitnessstudio|das Sportzentrum|das Schwimmbad	A2
+das Fenster	das Formular	select	vocabulary	die Anmeldung|das Dokument|das Papier	A2
+das Eis	das Flugzeug	select	vocabulary	das Auto|das Schiff|der Zug	A2
+das Ei	das Eis	select	vocabulary	das Wasser|der Kuchen|die Schokolade	A1
+das Date	date	select	vocabulary	Bread|Milk|Car	A2
+das Bücherregal	das Date	select	vocabulary	das Treffen|die Party|das Gespräch	A2
+das Buch	book	select	vocabulary	Apple|Water|Table	A1
+das Brot	bread	select	vocabulary	Cake|Milk|Table	A1
+das bin ich	das bin ich	select	vocabulary	Das bist du|Das sind wir|Das ist er	A1
+das Bett	bed	select	vocabulary	Chair|Table|Book	A1
+das berühmte Schloss	famous castle	select	vocabulary	das Haus|die Burg|die Kirche	A2
+das Bergsteigen	mountaineering	select	vocabulary	das Wandern|das Klettern|das Skifahren	A1
+das Badetuch	bath towel	select	vocabulary	das Handtuch|das Laken|die Decke	A1
+das Auto	car	select	vocabulary	Bike|Dog|House	A1
+das Arbeitszimmer	home office	select	vocabulary	das Wohnzimmer|die Küche|das Schlafzimmer	A2
+das Alter	age	select	vocabulary	das Jahr|die Zeit|die Lebensdauer	A1
+bestehen	to pass	select	vocabulary	durchfallen|schaffen|bestehen	A2
+bestanden	passed	select	vocabulary	gescheitert|durchgefallen|erfolgreich	A2
+besonders	special	select	vocabulary	gewöhnlich|speziell|einzigartig	A2
+besichtigt	visited	select	vocabulary	besuchen|erkunden|anschauen	A2
+besichtigen	to visit	select	vocabulary	besuchen|erkunden|anschauen	A2
+besetzt	occupied	select	vocabulary	frei|leer|geöffnet	A2
+beschweren	to complain	select	vocabulary	loben|klagen|kritisieren	A2
+beschützen	to protect	select	vocabulary	verletzen|angreifen|bewachen	A2
+beschädigt	damaged	select	vocabulary	intakt|kaputt|zerbrochen	A2
+bereit sein für	to be ready for	select	vocabulary	unvorbereitet sein für|vorbereitet sein auf|fertig sein für	A2
+bereit	ready	select	vocabulary	unvorbereitet|fertig|verfügbar	A2
+beliebt	popular	select	vocabulary	unbeliebt|bekannt|gefragt	A2
+bekommt	gets	select	vocabulary	gibt|nimmt|erhält	A2
+bekommen	got	select	vocabulary	geben|erhalten|nehmen	A1
+bekannt	known	select	vocabulary	fremd|unbekannt|berühmt	A1
+aufräumen	to tidy up	select	vocabulary	putzen|ordnen|sauber machen	A1
+aufpassen	to pay attention	select	vocabulary	achten|beobachten|aufpassen	A1
+aufmachen	to open	select	vocabulary	öffnen|öffnen|öffnen	A1
+aufladen	to charge	select	vocabulary	aufladen|aufmachen|starten	A1
+aufhören	to stop	select	vocabulary	enden|aufgeben|beenden	A2
+Antworten auf	answers to	select	vocabulary	Fragen beantworten|Reaktionen auf	A1
+annehmen	to accept	select	vocabulary	ablehnen|empfangen	A2
+an den Strand	to the beach	select	vocabulary	zum Strand|zur Küste|an den See	A1
+am Strand liegen	to lie on the beach	select	vocabulary	am See liegen|in der Sonne liegen|auf der Wiese liegen	A2
+alle	all	select	vocabulary	jeder|einige|keine	A1
+ähnlich	similar	select	vocabulary	gleich|verschieden|unterschiedlich	A2
+Äh.	Ah.	select	vocabulary	oh|hm|hmm	A1
+abgeben	to turn in, to submit	select	vocabulary	to give|to hand over|to deliver	A2
+Ab morgen	from tomorrow	select	vocabulary	from today|from yesterday|immediately	A2
